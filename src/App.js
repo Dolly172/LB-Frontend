@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Products from './components/Products';
 import axios from 'axios';
 
-export const API_BASE_URL = "https://lb-backend.onrender.com";
+export const API_BASE_URL = `https://lb-backend.onrender.com/products`;
 
 function App() {
 
